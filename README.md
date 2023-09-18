@@ -1,6 +1,4 @@
-# LeadSquared Project - nlp-1.2-context-lebeling
-
-## Extracting context from customer reviews
+# Extracting context from customer reviews
 15th September 2023
 ### SUMMARY
 The purpose of the project is to extract meaningful labels from customer reviews, which shall help in gathering insights from them accurately and efficiently from a large scale of data. I shall be taking it forward as a topic-labeling problem.  
